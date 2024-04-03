@@ -1,6 +1,6 @@
 # Coding Challenges Solutions
 
-This repository contains my Python solutions to coding challenges from Coderbyte. Each script provides a clear and efficient solution to a specific challenge.
+This repository contains my Python solutions to coding challenges with Python. Each script provides a clear and efficient solution to a specific challenge.
 
 ## Structure
 
